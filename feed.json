@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "agoracamisa",
     "description": "",
-    "home_page_url": "https://eduardobjkg.github.io/test1",
-    "feed_url": "https://eduardobjkg.github.io/test1/feed.json",
+    "home_page_url": "https://detroits.com.br",
+    "feed_url": "https://detroits.com.br/feed.json",
     "user_comment": "",
     "author": {
         "name": "Naruto"
     },
     "items": [
         {
-            "id": "https://eduardobjkg.github.io/test1/post-2.html",
-            "url": "https://eduardobjkg.github.io/test1/post-2.html",
+            "id": "https://detroits.com.br/post-2/",
+            "url": "https://detroits.com.br/post-2/",
             "title": "Post 2",
             "summary": "spomgfdg",
             "content_html": "<p>spomgfdg</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2023-03-06T16:28:19-04:00"
         },
         {
-            "id": "https://eduardobjkg.github.io/test1/um-post-aleatorio-de-teste.html",
-            "url": "https://eduardobjkg.github.io/test1/um-post-aleatorio-de-teste.html",
+            "id": "https://detroits.com.br/um-post-aleatorio-de-teste/",
+            "url": "https://detroits.com.br/um-post-aleatorio-de-teste/",
             "title": "Um post aleatório de teste",
             "summary": "asfsodngd sdklgndfl sklvnfdklbhfhfhegfg",
             "content_html": "<p>asfsodngd</p>\n<p>sdklgndfl</p>\n<p>sklvnfdklbhfhfhegfg</p>",
