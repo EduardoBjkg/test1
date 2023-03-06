@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "agoracamisa",
+    "description": "",
+    "home_page_url": "https://eduardobjkg.github.io/test1",
+    "feed_url": "https://eduardobjkg.github.io/test1/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Naruto"
+    },
+    "items": [
+        {
+            "id": "https://eduardobjkg.github.io/test1/um-post-aleatorio-de-teste.html",
+            "url": "https://eduardobjkg.github.io/test1/um-post-aleatorio-de-teste.html",
+            "title": "Um post aleatório de teste",
+            "summary": "asfsodngd sdklgndfl sklvnfdklbhfhfhegfg",
+            "content_html": "<p>asfsodngd</p>\n<p>sdklgndfl</p>\n<p>sklvnfdklbhfhfhegfg</p>",
+            "author": {
+                "name": "Naruto"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-06T16:12:46-04:00",
+            "date_modified": "2023-03-06T16:12:46-04:00"
+        }
+    ]
+}

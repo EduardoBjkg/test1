@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>agoracamisa</title>
+    <link href="https://eduardobjkg.github.io/test1/feed.xml" rel="self" />
+    <link href="https://eduardobjkg.github.io/test1" />
+    <updated>2023-03-06T16:12:46-04:00</updated>
+    <author>
+        <name>Naruto</name>
+    </author>
+    <id>https://eduardobjkg.github.io/test1</id>
+
+    <entry>
+        <title>Um post aleatório de teste</title>
+        <author>
+            <name>Naruto</name>
+        </author>
+        <link href="https://eduardobjkg.github.io/test1/um-post-aleatorio-de-teste.html"/>
+        <id>https://eduardobjkg.github.io/test1/um-post-aleatorio-de-teste.html</id>
+
+        <updated>2023-03-06T16:12:46-04:00</updated>
+            <summary>
+                <![CDATA[
+                    asfsodngd sdklgndfl sklvnfdklbhfhfhegfg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asfsodngd</p>
+<p>sdklgndfl</p>
+<p>sklvnfdklbhfhfhegfg</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
